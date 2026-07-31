@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0930-binary-subarrays-with-sum) |
+| [1046-last-stone-weight](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1248-count-number-of-nice-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
