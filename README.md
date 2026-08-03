@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,4 +46,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Simulation
+|  |
+| ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/2558-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
