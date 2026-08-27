@@ -16,17 +16,14 @@ void solve(TreeNode* root,vector<int>&out){
     out.push_back(root->val);
     solve(root->left,out);
     solve(root->right,out);
+
 }
     vector<int> preorderTraversal(TreeNode* root) {
+        vector<int>out;
 
 
-
-        vector<int>v;
-
-        solve(root,v);
-        return v;
-
-
+    solve(root,out);
+    return out;
 
         
     }
