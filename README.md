@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1248-count-number-of-nice-subarrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1710-maximum-units-on-a-truck](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1710-maximum-units-on-a-truck) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Sliding Window
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1710-maximum-units-on-a-truck](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1710-maximum-units-on-a-truck) |
 ## Matrix
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/aaravpathak9984-boop/leetcode_questn/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
